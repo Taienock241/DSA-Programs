@@ -94,6 +94,7 @@ int main() {
         cout << "DFS: Connection exists\n";
     else
         cout << "DFS: No connection exists\n";
+        cout << "DFS: No connection exists\n";
 
     return 0;
 }
