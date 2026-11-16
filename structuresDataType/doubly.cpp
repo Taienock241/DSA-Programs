@@ -51,6 +51,9 @@ Node* deleteBeg(Node *head){
     delete temp;
     return head;
 }
+
+
+
 Node* deleteEnd(Node *head){
     if(head==NULL){
         cout<<"list is empty";

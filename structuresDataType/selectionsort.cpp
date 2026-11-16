@@ -15,6 +15,8 @@ swap(arr[i],arr[pos_greatest]);
 }
 
 
+
+
 void  selectionsort2(int arr[], int n){
 for(int i= 0;i<n;i++ ){
     int minIndex= i;
